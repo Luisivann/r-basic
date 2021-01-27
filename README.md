@@ -26,3 +26,5 @@ Una vez termines el curso podrás seguir con los mejores cursos de análisis de 
 11. Introducción a distribuciones de probabilidad
 
 **I´m an economist from mexico city**
+
+**I´am from Germany I´am german**
